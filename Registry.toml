@@ -1,0 +1,6 @@
+name = "nelpkg"
+uuid = "1564f59c-9ebf-4f86-bfd7-b6166b2e2310"
+repo = "git@github.com:New-Earth-Lab/PackageRegistry.git"
+description = "New Earth Lab Julia Package Repo"
+
+[packages]
