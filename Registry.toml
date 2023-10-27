@@ -4,3 +4,4 @@ repo = "git@github.com:New-Earth-Lab/PackageRegistry.git"
 description = "New Earth Lab Julia Package Repo"
 
 [packages]
+42ac8a32-990f-4d8c-aece-52d731103226 = { name = "Aeron", path = "A/Aeron" }
