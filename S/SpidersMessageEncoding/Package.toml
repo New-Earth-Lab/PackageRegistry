@@ -1,3 +1,3 @@
 name = "SpidersMessageEncoding"
 uuid = "25d647a0-ef7d-4da3-8ba8-11abaa3d526c"
-repo = "git@github.com:New-Earth-Lab/SpidersMessageEncoding.jl.git"
+repo = "https://github.com/New-Earth-Lab/SpidersMessageEncoding.jl.git"
