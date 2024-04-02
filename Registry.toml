@@ -10,3 +10,4 @@ description = "New Earth Lab Julia Package Repo"
 5f58cc42-eec0-4e86-ae6e-2a11a2651972 = { name = "NKTInterbus", path = "N/NKTInterbus" }
 8e6e8f70-f28c-415d-b881-3282d03f8261 = { name = "Hsm", path = "H/Hsm" }
 b72eea5d-cc73-4cd7-b15d-da90a86fa5e9 = { name = "ASDK", path = "A/ASDK" }
+f7939a7f-2bcc-4096-952b-c44031b5533b = { name = "Agent", path = "A/Agent" }
