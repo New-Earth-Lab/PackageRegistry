@@ -6,6 +6,7 @@ description = "New Earth Lab Julia Package Repo"
 [packages]
 165d4630-7e21-4626-b3c2-016fbf5108c4 = { name = "SimpleBinaryEncoding", path = "S/SimpleBinaryEncoding" }
 25d647a0-ef7d-4da3-8ba8-11abaa3d526c = { name = "SpidersMessageEncoding", path = "S/SpidersMessageEncoding" }
+34b9e73c-8a29-4cd8-bcc0-ee7fe2217527 = { name = "Gclib", path = "G/Gclib" }
 42ac8a32-990f-4d8c-aece-52d731103226 = { name = "Aeron", path = "A/Aeron" }
 5f58cc42-eec0-4e86-ae6e-2a11a2651972 = { name = "NKTInterbus", path = "N/NKTInterbus" }
 8e6e8f70-f28c-415d-b881-3282d03f8261 = { name = "Hsm", path = "H/Hsm" }
